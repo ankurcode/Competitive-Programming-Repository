@@ -72,6 +72,7 @@ Collection of algorithms and data structures in C++ used widely in Competitive p
 * **Strings** :
    * *String Algorithms* :
        * [Z Algorithm](https://github.com/dragonslayerx/Competitive-Programming-Repository/blob/master/src/Z_algorithm_max_prefix_match.cpp)
+       * [KMP algorithm](https://github.com/dragonslayerx/Competitive-Programming-Repository/blob/master/src/KMP.cpp)
        * [Rolling String Hashing](https://github.com/dragonslayerx/Competitive-Programming-Repository/blob/master/src/string_hashing.cpp)
        * [Rolling String Hashing for Dynamic Strings](https://github.com/dragonslayerx/Competitive-Programming-Repository/blob/master/src/string_hashing_dynamic_segment_trees.cpp)
    * *String Data Structures* :
@@ -110,6 +111,8 @@ Collection of algorithms and data structures in C++ used widely in Competitive p
       * [Mobeius Function](https://github.com/dragonslayerx/Competitive-Programming-Repository/blob/master/src/mobeius_function.cpp)
       * [Euler Totient Function](https://github.com/dragonslayerx/Competitive-Programming-Repository/blob/master/src/euler_phi_euler_totient_function.cpp)
       * [Lucas Theorm - Combinatorics](https://github.com/dragonslayerx/Competitive-Programming-Repository/blob/master/src/lucas_combinatorics.cpp)  
+* **Computational Geometry** :
+  * [Convex Hull](https://github.com/dragonslayerx/Competitive-Programming-Repository/blob/master/src/convexhull.cpp)
 * **Misc** :
   * [Sum of floor(x) with x=1:n](https://github.com/dragonslayerx/Competitive-Programming-Repository/blob/master/src/aggreate_sqrt_distinct_values.cpp)
   * [Sum of cyclic functions *](https://github.com/dragonslayerx/Competitive-Programming-Repository/blob/master/src/aggregate_cyclic_function.cpp)
